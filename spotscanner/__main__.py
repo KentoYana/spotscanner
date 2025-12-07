@@ -20,7 +20,8 @@ BIBTEX_ENTRY = (
     "  author = {Kento Yanagisawa},\n"
     "  year   = {2025},\n"
     f"  note   = {{version {__version__}}},\n"
-    "  url    = {Input Later},\n"
+    "  url    = {https://github.com/KentoYana/spotscanner},\n"
+	"  abstract  = {SpotScanner is a command-line tool for quantitative analysis of fungal spot-test plates. It detects a printed marker on the plate, segments the image into a fixed grid, and measures colony growth in each spot, outputting results as CSV files and diagnostic images. The tool is designed for use in fungal genetics experiments (e.g., \\textit{Neurospora} spot tests) with either multi-channel replicators or manual pipetting.},\n"
     "}\n"
 )
 

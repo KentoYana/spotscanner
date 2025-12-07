@@ -3,7 +3,7 @@
 SpotScanner is a command-line tool for quantitative analysis of fungal **spot-test plates**.  
 It detects a printed marker on the plate, segments the image into a fixed grid, and measures colony growth in each spot, outputting results as CSV files and diagnostic images.
 
-The tool is designed for use in **fungal genetics** experiments (e.g. *Neurospora* spot tests) with either multi-channel replicators or manual pipetting.
+The tool is designed for use in **fungal genetics** experiments (e.g., *Neurospora* spot tests) with either multi-channel replicators or manual pipetting.
 
 ---
 
