@@ -351,3 +351,7 @@ spotscanner -o citation
 ```
 
 which writes `spotscanner.bib` in the current directory.
+
+## License
+
+This project is licensed under the MIT License.
