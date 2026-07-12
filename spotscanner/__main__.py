@@ -321,7 +321,7 @@ def main(argv=None):
         print('Please check the *_converted.png images to confirm that the correct regions were detected.')
     else:
         print('')
-        print(f'This is SpotScaner v{__version__}, developed by Kento Yanagisawa.')
+        print(f'This is SpotScanner v{__version__}, developed by Kento Yanagisawa.')
         print('> Take a photo of spot test plate with the printed marker,')
         print('> then run this command to obtain a results.csv file.')
         parser.print_usage()
